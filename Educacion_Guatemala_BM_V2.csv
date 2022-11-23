@@ -1,0 +1,818 @@
+-2066;No;No;Otra causa;Ninguno;Ninguno;Trabajador(a) cuenta propia no agra­cola
+-2066;No;No;Otra causa;Ninguno;Ninguno;
+4860;Si;No;Falta de dinero;Ninguno;Tercero Primaria;Trabajador(a) cuenta propia agra­cola
+4860;Si;Si;;Tercero Primaria;Segundo Primaria;
+4860;Si;Si;;Cuarto Primaria;Tercero Primaria;
+4860;No;No;Falta de dinero;Ninguno;Ninguno;Trabajador(a) cuenta propia no agra­cola
+4860;Si;Si;;Quinto Primaria;Cuarto Primaria;
+4890;Si;Si;;Cuarto Primaria;Tercero Primaria;
+4890;No;No;Falta de dinero;Ninguno;Ninguno;Trabajador(a) cuenta propia agra­cola
+4890;Si;Si;;Primero Primaria;Preprimaria;
+4890;Si;Si;;Sexto Primaria;Quinto Primaria;
+12701;Si;Si;;Cuarto Primaria;Tercero Primaria;
+12701;No;No;Otra causa;Ninguno;Ninguno;Trabajador(a) cuenta propia agra­cola
+12701;No;No;Otra causa;Ninguno;Ninguno;
+12701;Si;Si;;Sexto Primaria;Quinto Primaria;
+12710;Si;Si;;Cuarto Primaria;Tercero Primaria;
+12710;No;No;Otra causa;Ninguno;Ninguno;Trabajador(a) cuenta propia agra­cola
+12710;No;No;Otra causa;Ninguno;Ninguno;
+12710;Si;Si;;Sexto Primaria;Quinto Primaria;
+12865;Si;Si;;Cuarto Primaria;Tercero Primaria;
+12865;No;No;Otra causa;Ninguno;Ninguno;Trabajador(a) cuenta propia no agra­cola
+12891;No;No;Otra causa;Ninguno;Ninguno;Trabajador(a) cuenta propia agra­cola
+12891;Si;Si;;Segundo Basico;Primero Basico;
+12891;Si;Si;;Tercero Primaria;Segundo Primaria;
+17685;Si;Si;;Cuarto Primaria;Tercero Primaria;
+17685;No;No;Otra causa;Ninguno;Ninguno;Trabajador(a) cuenta propia no agra­cola
+17685;No;Si;;Preprimaria;Ninguno;
+17685;Si;Si;;Primero Basico;Sexto Primaria;
+17736;No;No;Otra causa;Ninguno;Ninguno;Trabajador(a) cuenta propia agra­cola
+17736;No;No;Otra causa;Ninguno;Ninguno;
+17736;Si;No;Falta de dinero;Ninguno;Quinto Primaria;
+17736;Si;Si;;Tercero Primaria;Segundo Primaria;
+17794;Si;Si;;Cuarto Primaria;Tercero Primaria;
+17794;Si;No;Falta de dinero;Ninguno;Tercero Primaria;Trabajador(a) cuenta propia no agra­cola
+17794;No;Si;;Primero Primaria;Preprimaria;
+17804;Si;Si;;Cuarto Primaria;Tercero Primaria;
+17804;No;No;Otra causa;Ninguno;Ninguno;Trabajador(a) cuenta propia no agra­cola
+17804;Si;Si;;Segundo Primaria;Primero Primaria;
+17879;No;No;Otra causa;Ninguno;Ninguno;No Trabaja
+17879;No;Si;;Primero Primaria;Ninguno;
+17879;Si;Si;;Segundo Primaria;Primero Primaria;
+17904;No;No;Otra causa;Ninguno;Ninguno;Trabajador(a) cuenta propia agra­cola
+17904;Si;Si;;Quinto Primaria;Cuarto Primaria;
+17942;Si;Si;;Cuarto Primaria;Tercero Primaria;
+17942;No;No;Otra causa;Ninguno;Ninguno;Trabajador(a) cuenta propia no agra­cola
+17942;Si;No;Falta de dinero;Ninguno;Sexto Primaria;
+17969;Si;No;Falta de dinero;Ninguno;Cuarto Primaria;Trabajador(a) cuenta propia no agra­cola
+17969;Si;No;Falta de dinero;Ninguno;Sexto Primaria;
+17969;No;Si;;Primero Primaria;Preprimaria;
+17969;Si;Si;;Quinto Primaria;Cuarto Primaria;
+17969;Si;Si;;Tercero Primaria;Segundo Primaria;
+18070;Si;Si;;Cuarto Primaria;Tercero Primaria;
+18070;No;No;Falta de dinero;Ninguno;Ninguno;Trabajador(a) cuenta propia no agra­cola
+18070;Si;Si;;Sexto Primaria;Quinto Primaria;
+18072;No;No;Falta de dinero;Ninguno;Ninguno;Trabajador(a) cuenta propia no agra­cola
+18072;Si;Si;;Sexto Primaria;Quinto Primaria;
+27653;Si;Si;;Cuarto Primaria;Tercero Primaria;
+27653;No;No;Otra causa;Ninguno;Ninguno;Trabajador(a) cuenta propia no agra­cola
+27653;Si;Si;;Preprimaria;Ninguno;
+27710;Si;Si;;Cuarto Primaria;Tercero Primaria;
+27710;No;No;Otra causa;Ninguno;Ninguno;Trabajador(a) cuenta propia no agra­cola
+27710;Si;Si;;Primero Basico;Sexto Primaria;
+27718;Si;No;Otra causa;Ninguno;Tercero Primaria;Trabajador(a) cuenta propia no agra­cola
+27718;Si;Si;;Primero Primaria;Preprimaria;
+27718;Si;Si;;Sexto Primaria;Quinto Primaria;
+27791;Si;No;Falta de dinero;Ninguno;Sexto Primaria;Trabajador(a) cuenta propia no agra­cola
+27791;No;Si;;Preprimaria;Ninguno;
+27791;Si;Si;;Quinto Primaria;Cuarto Primaria;
+27791;Si;Si;;Segundo Primaria;Primero Primaria;
+27797;No;No;Otra causa;Ninguno;Ninguno;Trabajador(a) cuenta propia no agra­cola
+27797;No;No;Otra causa;Ninguno;Ninguno;
+27797;Si;Si;;Segundo Primaria;Primero Primaria;
+27903;Si;Si;;Cuarto Primaria;Tercero Primaria;
+27903;Si;No;Otra causa;Ninguno;Sexto Primaria;Trabajador(a) cuenta propia no agra­cola
+27911;No;No;Otra causa;Ninguno;Ninguno;Trabajador(a) cuenta propia no agra­cola
+27911;No;No;Otra causa;Ninguno;Ninguno;
+27911;Si;Si;;Sexto Primaria;Quinto Primaria;
+27911;Si;Si;;Tercero Primaria;Segundo Primaria;
+27955;No;No;Otra causa;Ninguno;Ninguno;
+27955;Si;No;Otra causa;Ninguno;Segundo Primaria;Trabajador(a) cuenta propia no agra­cola
+27955;Si;No;Otra causa;Ninguno;Sexto Primaria;
+27955;Si;Si;;Quinto Primaria;Cuarto Primaria;
+27955;Si;Si;;Tercero Primaria;Segundo Primaria;
+72725;No;No;Otra causa;Ninguno;Ninguno;Trabajador(a) cuenta propia no agra­cola
+72725;No;No;Otra causa;Ninguno;Ninguno;
+72725;Si;Si;;Primero Basico;Sexto Primaria;
+72730;Si;No;Falta de dinero;Ninguno;Sexto Primaria;Trabajador(a) cuenta propia no agra­cola
+72730;Si;Si;;Primero Primaria;Preprimaria;
+72730;Si;Si;;Segundo Basico;Primero Basico;
+72731;No;No;Otra causa;Ninguno;Ninguno;Trabajador(a) cuenta propia no agra­cola
+72731;Si;Si;;Quinto Primaria;Cuarto Primaria;
+372846;Si;Si;;Cuarto Primaria;Tercero Primaria;
+372846;No;No;Otra causa;Ninguno;Ninguno;Trabajador(a) cuenta propia no agra­cola
+372846;No;Si;;Preprimaria;Ninguno;
+372846;Si;Si;;Sexto Primaria;Quinto Primaria;
+372846;Si;Si;;Tercero Primaria;Segundo Primaria;
+373190;No;No;Otra causa;Ninguno;Ninguno;Trabajador(a) cuenta propia no agra­cola
+373190;Si;No;Falta de dinero;Ninguno;Quinto Primaria;
+373190;No;Si;;Preprimaria;Ninguno;
+373190;Si;Si;;Segundo Primaria;Primero Primaria;
+373190;Si;Si;;Tercero Primaria;Segundo Primaria;
+498023;No;No;Otra causa;Ninguno;Ninguno;Trabajador(a) cuenta propia no agra­cola
+498023;Si;No;Falta de dinero;Ninguno;Sexto Primaria;
+498023;Si;Si;;Sexto Primaria;Quinto Primaria;
+498072;No;No;Otra causa;Ninguno;Ninguno;Trabajador(a) cuenta propia agra­cola
+498072;Si;Si;;Quinto Primaria;Cuarto Primaria;
+6749244;Si;No;Falta de dinero;Ninguno;Primero Primaria;Trabajador(a) cuenta propia agra­cola
+6749244;Si;Si;;Tercero Primaria;Segundo Primaria;
+6750269;Si;Si;;Cuarto Primaria;Tercero Primaria;
+6750269;No;No;Otra causa;Ninguno;Ninguno;Trabajador(a) cuenta propia no agra­cola
+6750269;Si;Si;;Sexto Primaria;Quinto Primaria;
+6750269;Si;Si;;Tercero Primaria;Segundo Primaria;
+6751859;Si;Si;;Cuarto Primaria;Tercero Primaria;
+6751859;Si;No;Falta de dinero;Ninguno;Primero Primaria;Trabajador(a) cuenta propia no agra­cola
+6751859;Si;Si;;Sexto Primaria;Quinto Primaria;
+6752003;Si;Si;;Cuarto Primaria;Tercero Primaria;
+6752003;No;No;Falta de dinero;Ninguno;Primero Primaria;Trabajador(a) cuenta propia no agra­cola
+6752003;Si;No;Falta de dinero;Ninguno;Sexto Primaria;
+6752187;Si;No;Falta de dinero;Ninguno;Tercero Primaria;Trabajador(a) cuenta propia no agra­cola
+6752187;Si;Si;;Preprimaria;Ninguno;
+6752187;Si;Si;;Segundo Primaria;Primero Primaria;
+6752574;No;No;Otra causa;Ninguno;Ninguno;Trabajador(a) cuenta propia no agra­cola
+6752574;Si;Si;;Segundo Primaria;Primero Primaria;
+6752576;Si;Si;;Cuarto Primaria;Tercero Primaria;
+6752576;No;No;Otra causa;Ninguno;Ninguno;Trabajador(a) cuenta propia no agra­cola
+6752576;Si;Si;;Sexto Primaria;Quinto Primaria;
+7498190;No;No;Falta de dinero;Ninguno;Ninguno;No Trabaja
+7498190;Si;Si;;Quinto Primaria;Cuarto Primaria;
+7498190;Si;Si;;Segundo Primaria;Primero Primaria;
+7498190;Si;Si;;Sexto Primaria;Quinto Primaria;
+7498586;No;No;Otra causa;Ninguno;Ninguno;
+7498586;Si;No;Falta de dinero;Ninguno;Segundo Primaria;No Trabaja
+7498586;Si;No;No le interesa;Ninguno;Sexto Primaria;
+7498586;Si;Si;;Quinto Primaria;Cuarto Primaria;
+7498662;Si;Si;;Cuarto Primaria;Tercero Primaria;
+7498662;Si;No;Falta de dinero;Ninguno;Primero Primaria;No Trabaja
+7697962;Si;Si;;Cuarto Primaria;Tercero Primaria;
+7697962;No;No;Otra causa;Ninguno;Ninguno;Trabajador(a) cuenta propia no agra­cola
+7697962;No;Si;;Preprimaria;Ninguno;
+7697988;Si;No;Falta de dinero;Ninguno;Cuarto Primaria;Trabajador(a) cuenta propia no agra­cola
+7697988;Si;Si;;Segundo Primaria;Primero Primaria;
+8047855;No;No;Falta de dinero;Ninguno;Ninguno;Trabajador(a) cuenta propia no agra­cola
+8098618;Si;No;Falta de dinero;Ninguno;Segundo Primaria;No Trabaja
+8098618;Si;Si;;Quinto Primaria;Cuarto Primaria;
+8098618;Si;Si;;Tercero Primaria;Segundo Primaria;
+8299456;Si;No;Falta de dinero;Ninguno;Cuarto Primaria;Trabajador(a) cuenta propia no agra­cola
+8299456;No;No;Otra causa;Ninguno;Ninguno;
+8299456;No;Si;;Primero Primaria;Preprimaria;
+8347968;Si;No;Falta de dinero;Ninguno;Quinto Primaria;No Trabaja
+8347968;Si;No;No le interesa;Ninguno;Sexto Primaria;
+8347968;No;Si;;Primero Primaria;Preprimaria;
+8347968;Si;Si;;Quinto Primaria;Cuarto Primaria;
+8347968;Si;Si;;Tercero Primaria;Segundo Primaria;
+8347970;Si;Si;;Cuarto Primaria;Tercero Primaria;
+8347970;Si;No;Falta de dinero;Ninguno;Cuarto Primaria;Trabajador(a) cuenta propia agra­cola
+8347970;Si;No;No le interesa;Ninguno;Sexto Primaria;
+8348595;Si;No;No le interesa;Ninguno;Tercero Primaria;Trabajador(a) cuenta propia no agra­cola
+8348595;Si;Si;;Segundo Primaria;Primero Primaria;
+8348761;Si;No;Falta de dinero;Ninguno;Segundo Primaria;No Trabaja
+8348761;Si;Si;;Primero Basico;Sexto Primaria;
+8348761;Si;Si;;Tercero Primaria;Segundo Primaria;
+8348782;Si;Si;;Cuarto Primaria;Tercero Primaria;
+8348782;Si;No;Falta de dinero;Ninguno;Tercero Primaria;No Trabaja
+8348782;Si;Si;;Tercero Primaria;Segundo Primaria;
+8348787;Si;No;Falta de dinero;Ninguno;Segundo Primaria;No Trabaja
+8348787;Si;Si;;Sexto Primaria;Quinto Primaria;
+8348792;No;No;Otra causa;Ninguno;Ninguno;
+8348792;Si;No;No le interesa;Ninguno;Sexto Primaria;
+8348792;Si;No;Falta de dinero;Ninguno;Tercero Primaria;No Trabaja
+8348792;Si;No;No le interesa;Ninguno;Tercero Primaria;
+8499967;No;No;Falta de dinero;Ninguno;Ninguno;Trabajador(a) cuenta propia agra­cola
+8499967;Si;Si;;Segundo Primaria;Primero Primaria;
+8499967;Si;Si;;Sexto Primaria;Quinto Primaria;
+8499967;Si;Si;;Tercero Primaria;Segundo Primaria;
+8499979;Si;Si;;Cuarto Primaria;Tercero Primaria;
+8499979;Si;No;Falta de dinero;Ninguno;Sexto Primaria;
+8499979;Si;No;Falta de dinero;Ninguno;Tercero Primaria;Trabajador(a) cuenta propia agra­cola
+8499990;Si;Si;;Cuarto Primaria;Tercero Primaria;
+8499990;No;No;Otra causa;Ninguno;Ninguno;Trabajador(a) cuenta propia agra­cola
+8499990;No;Si;;Preprimaria;Ninguno;
+8499990;Si;Si;;Sexto Primaria;Quinto Primaria;
+8499992;Si;No;Falta de dinero;Ninguno;Cuarto Primaria;Trabajador(a) cuenta propia agra­cola
+8499992;Si;No;Falta de dinero;Ninguno;Sexto Primaria;
+8499992;No;Si;;Preprimaria;Ninguno;
+8499992;Si;Si;;Quinto Primaria;Cuarto Primaria;
+8499992;Si;Si;;Sexto Primaria;Quinto Primaria;
+8500828;Si;No;Falta de dinero;Ninguno;Tercero Primaria;Trabajador(a) cuenta propia agra­cola
+8500828;No;Si;;Preprimaria;Ninguno;
+8500828;Si;Si;;Primero Primaria;Preprimaria;
+8500828;Si;Si;;Segundo Primaria;Primero Primaria;
+8548357;Si;No;Falta de dinero;Ninguno;Segundo Primaria;No Trabaja
+8548357;Si;Si;;Quinto Primaria;Cuarto Primaria;
+8550515;No;No;Falta de dinero;Ninguno;Ninguno;No Trabaja
+8550515;Si;Si;;Primero Primaria;Preprimaria;
+8550515;Si;Si;;Tercero Primaria;Segundo Primaria;
+8550557;Si;No;Falta de dinero;Ninguno;Sexto Primaria;No Trabaja
+8550557;No;Si;;Preprimaria;Ninguno;
+8550557;Si;Si;;Quinto Primaria;Cuarto Primaria;
+8597925;Si;No;Oficios de la casa;Ninguno;Sexto Primaria;No Trabaja
+8597925;Si;Si;;Primero Primaria;Preprimaria;
+8597929;Si;Si;;Cuarto Primaria;Tercero Primaria;
+8597929;No;No;Oficios de la casa;Ninguno;Ninguno;No Trabaja
+8597929;No;Si;;Preprimaria;Ninguno;
+8597929;Si;Si;;Primero Primaria;Preprimaria;
+8598028;No;No;Falta de dinero;Ninguno;Ninguno;No Trabaja
+8598028;Si;Si;;Segundo Primaria;Primero Primaria;
+8598028;Si;Si;;Sexto Primaria;Quinto Primaria;
+8598028;Si;Si;;Tercero Primaria;Segundo Primaria;
+8598167;No;No;Otra causa;Ninguno;Ninguno;
+8598167;Si;No;Oficios de la casa;Ninguno;Sexto Primaria;No Trabaja
+8598167;Si;Si;;Primero Primaria;Preprimaria;
+8598167;Si;Si;;Quinto Primaria;Cuarto Primaria;
+8599224;Si;No;Falta de dinero;Ninguno;Sexto Primaria;Trabajador(a) cuenta propia agra­cola
+8599224;Si;Si;;Tercero Primaria;Segundo Primaria;
+8599250;Si;No;Falta de dinero;Ninguno;Tercero Primaria;Trabajador(a) cuenta propia agra­cola
+8599250;No;Si;;Preprimaria;Ninguno;
+8599250;Si;Si;;Primero Basico;Sexto Primaria;
+8599250;Si;Si;;Sexto Primaria;Quinto Primaria;
+8599250;Si;Si;;Tercero Primaria;Segundo Primaria;
+8600465;Si;Si;;Cuarto Primaria;Tercero Primaria;
+8600465;No;No;Falta de dinero;Ninguno;Ninguno;Trabajador(a) cuenta propia agra­cola
+8600465;No;No;Otra causa;Ninguno;Ninguno;
+8600465;Si;Si;;Segundo Primaria;Primero Primaria;
+8600468;No;No;Otra causa;Ninguno;Ninguno;Trabajador(a) cuenta propia agra­cola
+8600468;No;Si;;Preprimaria;Ninguno;
+8600468;Si;Si;;Quinto Primaria;Cuarto Primaria;
+8600468;Si;Si;;Tercero Primaria;Segundo Primaria;
+8600484;No;No;Falta de dinero;Ninguno;Ninguno;Trabajador(a) cuenta propia agra­cola
+8600484;Si;Si;;Sexto Primaria;Quinto Primaria;
+8600484;Si;Si;;Tercero Primaria;Segundo Primaria;
+8600499;No;No;Falta de dinero;Ninguno;Ninguno;No Trabaja
+8600499;Si;Si;;Primero Basico;Sexto Primaria;
+8600499;Si;Si;;Primero Primaria;Preprimaria;
+8600502;No;No;Falta de dinero;Ninguno;Ninguno;No Trabaja
+8600502;No;No;Otra causa;Ninguno;Ninguno;
+8600502;Si;Si;;Primero Basico;Sexto Primaria;
+8600514;No;No;La madre trabaja;Ninguno;Ninguno;No Trabaja
+8600514;No;No;Otra causa;Ninguno;Ninguno;
+8600514;Si;Si;;Primero Primaria;Preprimaria;
+8600514;Si;Si;;Tercero Primaria;Segundo Primaria;
+8600711;Si;No;Falta de dinero;Ninguno;Cuarto Primaria;No Trabaja
+8600711;Si;Si;;Primero Primaria;Preprimaria;
+8600711;Si;Si;;Tercero Primaria;Segundo Primaria;
+8600713;Si;No;Falta de dinero;Ninguno;Cuarto Primaria;Trabajador(a) cuenta propia agra­cola
+8600713;Si;Si;;Primero Primaria;Preprimaria;
+8600715;Si;No;Falta de dinero;Ninguno;Segundo Primaria;No Trabaja
+8600715;Si;Si;;Primero Primaria;Preprimaria;
+8601550;No;No;Falta de dinero;Ninguno;Ninguno;Trabajador(a) cuenta propia agra­cola
+8601550;Si;Si;;Primero Primaria;Preprimaria;
+8601564;No;No;Otra causa;Ninguno;Ninguno;No Trabaja
+8601564;Si;Si;;Sexto Primaria;Quinto Primaria;
+8698684;No;No;Falta de dinero;Ninguno;Ninguno;No Trabaja
+8698684;Si;Si;;Segundo Primaria;Primero Primaria;
+8699838;Si;Si;;Cuarto Primaria;Tercero Primaria;
+8699838;No;No;No le interesa;Ninguno;Ninguno;No Trabaja
+8699838;No;No;Otra causa;Ninguno;Ninguno;
+8699838;Si;Si;;Primero Basico;Sexto Primaria;
+8699838;No;Si;;Primero Primaria;Preprimaria;
+8797798;No;No;Falta de dinero;Ninguno;Ninguno;Trabajador(a) cuenta propia no agra­cola
+8797798;No;Si;;Primero Primaria;Preprimaria;
+8797798;No;Si;;Segundo Primaria;Primero Primaria;
+8797802;Si;No;Falta de dinero;Ninguno;Tercero Primaria;Trabajador(a) cuenta propia no agra­cola
+8797802;No;Si;;Preprimaria;Ninguno;
+8797802;Si;Si;;Tercero Primaria;Segundo Primaria;
+8797804;Si;No;Trabajo;Ninguno;Sexto Primaria;Trabajador(a) cuenta propia no agra­cola
+8797804;Si;Si;;Sexto Primaria;Quinto Primaria;
+8797830;Si;No;Falta de dinero;Ninguno;Primero Primaria;Trabajador(a) cuenta propia no agra­cola
+8797830;Si;Si;;Quinto Primaria;Cuarto Primaria;
+8797893;Si;No;Otra causa;Ninguno;Cuarto Primaria;Trabajador(a) cuenta propia no agra­cola
+8797893;No;Si;;Preprimaria;Ninguno;
+8797893;Si;Si;;Sexto Primaria;Quinto Primaria;
+8797893;Si;Si;;Tercero Basico;Segundo Basico;
+8797895;Si;Si;;Cuarto Primaria;Tercero Primaria;
+8797895;Si;No;Trabajo;Ninguno;Sexto Primaria;Trabajador(a) cuenta propia no agra­cola
+8797895;No;Si;;Preprimaria;Ninguno;
+8797895;Si;Si;;Segundo Primaria;Primero Primaria;
+8797904;No;No;Falta de dinero;Ninguno;Ninguno;Trabajador(a) cuenta propia no agra­cola
+8797904;Si;Si;;Sexto Primaria;Quinto Primaria;
+8797904;Si;Si;;Tercero Primaria;Segundo Primaria;
+8797920;Si;No;Otra causa;Ninguno;Cuarto Primaria;Trabajador(a) cuenta propia no agra­cola
+8797920;Si;Si;;Quinto Primaria;Cuarto Primaria;
+8797920;Si;Si;;Segundo Primaria;Primero Primaria;
+8797923;Si;No;Falta de dinero;Ninguno;Cuarto Primaria;Trabajador(a) cuenta propia no agra­cola
+8797923;Si;Si;;Quinto Primaria;Cuarto Primaria;
+8797923;Si;Si;;Sexto Primaria;Quinto Primaria;
+8798020;Si;No;Otra causa;Ninguno;Cuarto Primaria;Trabajador(a) cuenta propia no agra­cola
+8798020;Si;No;Falta de dinero;Ninguno;Sexto Primaria;
+8798020;No;Si;;Preprimaria;Ninguno;
+9248386;No;No;Otra causa;Ninguno;Ninguno;Trabajador(a) cuenta propia no agra­cola
+9248386;No;No;Otra causa;Ninguno;Ninguno;
+9248386;Si;Si;;Tercero Primaria;Segundo Primaria;
+9248390;Si;No;Falta de dinero;Ninguno;Tercero Primaria;No Trabaja
+9248390;Si;Si;;Primero Primaria;Preprimaria;
+9248528;Si;No;Otra causa;Ninguno;Sexto Primaria;No Trabaja
+9248528;No;Si;;Primero Primaria;Preprimaria;
+9248528;Si;Si;;Segundo Primaria;Primero Primaria;
+9248868;No;No;Otra causa;Ninguno;Ninguno;No Trabaja
+9248868;Si;Si;;Quinto Primaria;Cuarto Primaria;
+9248868;Si;Si;;Segundo Basico;Primero Basico;
+9249118;Si;No;Falta de dinero;Ninguno;Tercero Primaria;No Trabaja
+9249118;Si;Si;;Preprimaria;Ninguno;
+9249118;Si;Si;;Tercero Primaria;Segundo Primaria;
+9249613;Si;No;Falta de dinero;Ninguno;Tercero Primaria;No Trabaja
+9249613;No;Si;;Preprimaria;Ninguno;
+9249613;Si;Si;;Quinto Primaria;Cuarto Primaria;
+9297783;Si;No;Falta de dinero;Ninguno;Segundo Basico;Trabajador(a) cuenta propia no agra­cola
+9297783;Si;Si;;Tercero Primaria;Segundo Primaria;
+9298969;Si;No;Trabajo;Ninguno;Cuarto Primaria;Trabajador(a) cuenta propia agra­cola
+9298969;Si;Si;;Quinto Primaria;Cuarto Primaria;
+9298969;Si;Si;;Tercero Primaria;Segundo Primaria;
+9300325;No;No;Falta de dinero;Ninguno;Ninguno;Trabajador(a) cuenta propia agra­cola
+9300325;No;Si;;Segundo Primaria;Primero Primaria;
+9300325;Si;Si;;Sexto Primaria;Quinto Primaria;
+9300455;No;No;Falta de dinero;Ninguno;Ninguno;Trabajador(a) cuenta propia no agra­cola
+9300455;No;Si;;Preprimaria;Ninguno;
+9300455;Si;Si;;Tercero Primaria;Segundo Primaria;
+9300504;No;No;Falta de dinero;Ninguno;Ninguno;Trabajador(a) cuenta propia no agra­cola
+9300504;No;Si;;Primero Primaria;Preprimaria;
+9300697;Si;Si;;Cuarto Primaria;Tercero Primaria;
+9300697;No;No;Falta de dinero;Ninguno;Ninguno;Trabajador(a) cuenta propia no agra­cola
+9300697;Si;Si;;Segundo Primaria;Primero Primaria;
+9300697;Si;Si;;Sexto Primaria;Quinto Primaria;
+9300701;No;No;Trabajo;Ninguno;Ninguno;Trabajador(a) cuenta propia no agra­cola
+9300701;Si;Si;;Quinto Primaria;Cuarto Primaria;
+9300709;No;No;Otra causa;Ninguno;Ninguno;
+9300709;Si;No;No le interesa;Ninguno;Quinto Primaria;Trabajador(a) cuenta propia no agra­cola
+9300709;Si;Si;;Sexto Primaria;Quinto Primaria;
+9300709;Si;Si;;Tercero Primaria;Segundo Primaria;
+9347980;Si;No;Falta de dinero;Ninguno;Primero Primaria;Trabajador(a) cuenta propia no agra­cola
+9347980;Si;Si;;Primero Primaria;Preprimaria;
+9347983;Si;No;Trabajo;Ninguno;Cuarto Primaria;Trabajador(a) cuenta propia no agra­cola
+9347983;Si;Si;;Segundo Primaria;Primero Primaria;
+9347997;Si;Si;;Cuarto Primaria;Tercero Primaria;
+9347997;No;No;Otra causa;Ninguno;Ninguno;Trabajador(a) cuenta propia agra­cola
+9347997;No;No;Otra causa;Ninguno;Ninguno;
+9348022;Si;No;Otra causa;Ninguno;Sexto Primaria;Trabajador(a) cuenta propia no agra­cola
+9348022;Si;Si;;Segundo Primaria;Primero Primaria;
+9348022;Si;Si;;Sexto Primaria;Quinto Primaria;
+9350847;Si;Si;;Cuarto Primaria;Tercero Primaria;
+9350847;No;No;Otra causa;Ninguno;Ninguno;Trabajador(a) cuenta propia no agra­cola
+9350853;No;No;Otra causa;Ninguno;Ninguno;
+9350853;Si;No;Otra causa;Ninguno;Sexto Primaria;Trabajador(a) cuenta propia no agra­cola
+9350853;Si;Si;;Primero Basico;Sexto Primaria;
+9697836;No;No;Otra causa;Ninguno;Ninguno;Trabajador(a) cuenta propia agra­cola
+9697836;Si;No;Falta de dinero;Ninguno;Sexto Primaria;
+9697836;Si;Si;;Segundo Primaria;Primero Primaria;
+9748333;Si;No;Falta de dinero;Ninguno;Tercero Primaria;No Trabaja
+9748739;No;No;Otra causa;Ninguno;Ninguno;No Trabaja
+9748739;No;No;Otra causa;Ninguno;Ninguno;
+9748739;Si;No;Falta de dinero;Ninguno;Sexto Primaria;
+9748739;Si;Si;;Segundo Primaria;Primero Primaria;
+9748739;Si;Si;;Tercero Primaria;Segundo Primaria;
+9899361;No;No;Otra causa;Ninguno;Ninguno;Trabajador(a) cuenta propia no agra­cola
+9899361;Si;Si;;Primero Primaria;Preprimaria;
+9899361;Si;Si;;Tercero Primaria;Segundo Primaria;
+9899921;Si;Si;;Cuarto Primaria;Tercero Primaria;
+9899921;No;No;Otra causa;Ninguno;Ninguno;No Trabaja
+9899921;No;Si;;Preprimaria;Ninguno;
+9899921;Si;Si;;Segundo Primaria;Primero Primaria;
+9899921;Si;Si;;Tercero Primaria;Segundo Primaria;
+9948057;Si;Si;;Cuarto Primaria;Tercero Primaria;
+9948057;Si;No;Falta de dinero;Ninguno;Segundo Primaria;No Trabaja
+9948057;Si;Si;;Sexto Primaria;Quinto Primaria;
+9948073;Si;Si;;Cuarto Primaria;Tercero Primaria;
+9948073;Si;No;Falta de dinero;Ninguno;Tercero Primaria;Trabajador(a) cuenta propia no agra­cola
+9948073;No;Si;;Preprimaria;Ninguno;
+9948073;No;Si;;Primero Primaria;Preprimaria;
+10649123;Si;No;Falta de dinero;Ninguno;Sexto Primaria;Trabajador(a) cuenta propia agra­cola
+10649123;Si;Si;;Segundo Primaria;Primero Primaria;
+10649123;Si;Si;;Sexto Primaria;Quinto Primaria;
+10897830;Si;No;Trabajo;Ninguno;Cuarto Primaria;Trabajador(a) cuenta propia no agra­cola
+10897830;Si;Si;;Segundo Primaria;Primero Primaria;
+10898415;No;No;Otra causa;Ninguno;Ninguno;Trabajador(a) cuenta propia no agra­cola
+10898415;Si;No;Trabajo;Ninguno;Sexto Primaria;
+10898415;Si;Si;;Segundo Primaria;Primero Primaria;
+10898517;No;No;Otra causa;Ninguno;Ninguno;Trabajador(a) cuenta propia no agra­cola
+10898517;Si;Si;;Quinto Primaria;Cuarto Primaria;
+10898517;Si;Si;;Tercero Primaria;Segundo Primaria;
+11349726;Si;No;Falta de dinero;Ninguno;Segundo Primaria;No Trabaja
+11349726;Si;Si;;Tercero Primaria;Segundo Primaria;
+11648413;Si;Si;;Cuarto Primaria;Tercero Primaria;
+11648413;No;No;Oficios de la casa;Ninguno;Ninguno;No Trabaja
+11648413;Si;Si;;Primero Primaria;Preprimaria;
+11648413;Si;Si;;Segundo Primaria;Primero Primaria;
+11648413;Si;Si;;Tercero Primaria;Segundo Primaria;
+11648418;Si;No;Falta de dinero;Ninguno;Segundo Primaria;Trabajador(a) cuenta propia no agra­cola
+11648418;Si;No;Falta de dinero;Ninguno;Sexto Primaria;
+11648418;No;Si;;Preprimaria;Ninguno;
+11648418;Si;Si;;Segundo Primaria;Primero Primaria;
+11648418;Si;Si;;Sexto Primaria;Quinto Primaria;
+11652265;Si;Si;;Cuarto Primaria;Tercero Primaria;
+11652265;No;No;Otra causa;Ninguno;Ninguno;No Trabaja
+11652265;Si;Si;;Segundo Basico;Primero Basico;
+11652286;No;No;Oficios de la casa;Ninguno;Ninguno;Trabajador(a) cuenta propia no agra­cola
+11652286;Si;Si;;Primero Primaria;Preprimaria;
+11652286;Si;Si;;Sexto Primaria;Quinto Primaria;
+11652286;Si;Si;;Tercero Primaria;Segundo Primaria;
+11698696;Si;Si;;Cuarto Primaria;Tercero Primaria;
+11698696;Si;No;No le interesa;Ninguno;Sexto Primaria;No Trabaja
+11698696;No;Si;;Primero Primaria;Preprimaria;
+11698696;Si;Si;;Sexto Primaria;Quinto Primaria;
+11700932;No;No;No le interesa;Ninguno;Ninguno;No Trabaja
+11700932;No;Si;;Primero Primaria;Preprimaria;
+11700932;Si;Si;;Quinto Primaria;Cuarto Primaria;
+11700932;Si;Si;;Segundo Primaria;Primero Primaria;
+11700933;Si;Si;;Cuarto Primaria;Tercero Primaria;
+11700933;Si;No;No le interesa;Ninguno;Cuarto Primaria;No Trabaja
+11700933;Si;Si;;Primero Primaria;Preprimaria;
+12697713;No;No;Otra causa;Ninguno;Ninguno;Trabajador(a) cuenta propia no agra­cola
+12697713;Si;Si;;Quinto Primaria;Cuarto Primaria;
+12697713;Si;Si;;Segundo Primaria;Primero Primaria;
+12698085;No;No;Otra causa;Ninguno;Ninguno;
+12698085;Si;No;Falta de dinero;Ninguno;Segundo Primaria;Trabajador(a) cuenta propia no agra­cola
+12698085;Si;Si;;Primero Primaria;Preprimaria;
+12698085;Si;Si;;Segundo Primaria;Primero Primaria;
+12698085;Si;Si;;Tercero Primaria;Segundo Primaria;
+12698102;No;No;Otra causa;Ninguno;Ninguno;Trabajador(a) cuenta propia no agra­cola
+12698102;Si;Si;;Preprimaria;Ninguno;
+12698111;Si;No;Oficios de la casa;Ninguno;Tercero Primaria;Trabajador(a) cuenta propia no agra­cola
+12698111;No;Si;;Preprimaria;Ninguno;
+12698111;Si;Si;;Sexto Primaria;Quinto Primaria;
+12698148;Si;Si;;Cuarto Primaria;Tercero Primaria;
+12698148;No;No;Otra causa;Ninguno;Ninguno;
+12698148;Si;No;Falta de dinero;Ninguno;Sexto Primaria;Trabajador(a) cuenta propia no agra­cola
+12698148;Si;Si;;Primero Primaria;Preprimaria;
+12698300;No;No;Otra causa;Ninguno;Ninguno;
+12698300;Si;No;Falta de dinero;Ninguno;Quinto Primaria;Trabajador(a) cuenta propia no agra­cola
+12698300;Si;Si;;Sexto Primaria;Quinto Primaria;
+12698300;Si;Si;;Tercero Primaria;Segundo Primaria;
+12698376;Si;Si;;Cuarto Primaria;Tercero Primaria;
+12698376;Si;No;Trabajo;Ninguno;Tercero Primaria;Trabajador(a) cuenta propia no agra­cola
+12698376;Si;Si;;Sexto Primaria;Quinto Primaria;
+12698445;No;No;Otra causa;Ninguno;Ninguno;Trabajador(a) cuenta propia no agra­cola
+12698445;Si;No;Otra causa;Ninguno;Tercero Primaria;
+12698445;Si;Si;;Preprimaria;Ninguno;
+12698456;Si;Si;;Cuarto Primaria;Tercero Primaria;
+12698456;Si;No;Falta de dinero;Ninguno;Cuarto Primaria;Trabajador(a) cuenta propia no agra­cola
+12698456;Si;Si;;Preprimaria;Ninguno;
+12698456;Si;Si;;Segundo Primaria;Primero Primaria;
+12698490;Si;Si;;Cuarto Primaria;Tercero Primaria;
+12698490;No;No;Otra causa;Ninguno;Ninguno;Trabajador(a) cuenta propia no agra­cola
+12698490;Si;Si;;Sexto Primaria;Quinto Primaria;
+12698605;No;No;Falta de dinero;Ninguno;Ninguno;Trabajador(a) cuenta propia no agra­cola
+12698605;No;Si;;Preprimaria;Ninguno;
+12698605;Si;Si;;Quinto Primaria;Cuarto Primaria;
+12698605;Si;Si;;Tercero Primaria;Segundo Primaria;
+12698651;No;No;Oficios de la casa;Ninguno;Ninguno;Trabajador(a) cuenta propia no agra­cola
+12698651;Si;No;No le interesa;Ninguno;Sexto Primaria;
+12698651;Si;Si;;Segundo Primaria;Primero Primaria;
+12698728;Si;No;Falta de dinero;Ninguno;Primero Primaria;Trabajador(a) cuenta propia no agra­cola
+12698728;Si;No;Falta de dinero;Ninguno;Sexto Primaria;
+12698728;Si;Si;;Tercero Primaria;Segundo Primaria;
+12699344;No;No;Trabajo;Ninguno;Ninguno;Trabajador(a) cuenta propia no agra­cola
+12699344;No;Si;;Primero Primaria;Preprimaria;
+12699344;Si;Si;;Tercero Primaria;Segundo Primaria;
+12699727;Si;No;Otra causa;Ninguno;Cuarto Primaria;Trabajador(a) cuenta propia no agra­cola
+12699727;Si;No;Falta de dinero;Ninguno;Sexto Primaria;
+12699727;Si;Si;;Primero Primaria;Preprimaria;
+12699727;Si;Si;;Segundo Primaria;Primero Primaria;
+12699727;Si;Si;;Sexto Primaria;Quinto Primaria;
+12699736;No;No;Otra causa;Ninguno;Ninguno;Trabajador(a) cuenta propia no agra­cola
+12699736;Si;Si;;Primero Primaria;Preprimaria;
+12699736;Si;Si;;Tercero Primaria;Segundo Primaria;
+12700397;No;No;Otra causa;Ninguno;Ninguno;Trabajador(a) cuenta propia no agra­cola
+12700397;Si;Si;;Segundo Primaria;Primero Primaria;
+13150230;Si;No;Falta de dinero;Ninguno;Cuarto Primaria;Trabajador(a) cuenta propia agra­cola
+13150230;No;No;Otra causa;Ninguno;Ninguno;
+13150230;Si;Si;;Quinto Primaria;Cuarto Primaria;
+13150230;Si;Si;;Segundo Primaria;Primero Primaria;
+13597743;Si;Si;;Cuarto Primaria;Tercero Primaria;
+13597743;No;No;Falta de dinero;Ninguno;Ninguno;No Trabaja
+13597743;Si;Si;;Preprimaria;Ninguno;
+13599434;No;No;No tiene quien lo lleve;Ninguno;Ninguno;
+13599434;Si;No;Falta de dinero;Ninguno;Tercero Basico;No Trabaja
+13599434;Si;Si;;Segundo Primaria;Primero Primaria;
+13599642;Si;No;Falta de dinero;Ninguno;Primero Primaria;No Trabaja
+13599642;Si;Si;;Segundo Primaria;Primero Primaria;
+13599642;Si;Si;;Sexto Primaria;Quinto Primaria;
+13647872;Si;No;Falta de dinero;Ninguno;Segundo Primaria;No Trabaja
+13647872;Si;Si;;Segundo Primaria;Primero Primaria;
+13647891;Si;No;Falta de dinero;Ninguno;Sexto Primaria;No Trabaja
+13647891;No;Si;;Preprimaria;Ninguno;
+13647893;Si;Si;;Cuarto Primaria;Tercero Primaria;
+13647893;No;No;Trabajo;Ninguno;Ninguno;No Trabaja
+13647893;Si;Si;;Segundo Primaria;Primero Primaria;
+13647901;Si;No;Falta de dinero;Ninguno;Sexto Primaria;No Trabaja
+13647901;Si;Si;;Primero Primaria;Preprimaria;
+13647901;Si;Si;;Sexto Primaria;Quinto Primaria;
+13647901;Si;Si;;Tercero Primaria;Segundo Primaria;
+13647901;Si;No;Falta de dinero;Ninguno;Segundo Primaria;No Trabaja
+13647901;Si;Si;;Primero Primaria;Preprimaria;
+13647901;Si;Si;;Tercero Primaria;Segundo Primaria;
+13647913;Si;No;Falta de dinero;Ninguno;Cuarto Primaria;No Trabaja
+13647913;Si;Si;;Segundo Primaria;Primero Primaria;
+13647983;Si;No;Falta de dinero;Ninguno;Primero Primaria;No Trabaja
+13647983;Si;Si;;Segundo Primaria;Primero Primaria;
+13647983;Si;Si;;Sexto Primaria;Quinto Primaria;
+13648070;Si;No;Falta de dinero;Ninguno;Sexto Primaria;No Trabaja
+13648070;Si;Si;;Primero Primaria;Preprimaria;
+13648070;Si;Si;;Tercero Primaria;Segundo Primaria;
+13648135;Si;No;Falta de dinero;Ninguno;Primero Primaria;No Trabaja
+13648135;Si;Si;;Preprimaria;Ninguno;
+13648135;Si;Si;;Tercero Primaria;Segundo Primaria;
+13648255;Si;No;Falta de dinero;Ninguno;Primero Primaria;No Trabaja
+13648255;Si;Si;;Sexto Primaria;Quinto Primaria;
+13648255;Si;Si;;Tercero Primaria;Segundo Primaria;
+13799043;Si;No;Falta de dinero;Ninguno;Sexto Primaria;No Trabaja
+13799043;Si;Si;;Primero Basico;Sexto Primaria;
+13799043;Si;Si;;Quinto Primaria;Cuarto Primaria;
+13799043;Si;Si;;Tercero Primaria;Segundo Primaria;
+350497862;No;No;Otra causa;Ninguno;Ninguno;Trabajador(a) cuenta propia no agra­cola
+350497862;Si;No;Falta de dinero;Ninguno;Sexto Primaria;
+350497862;Si;Si;;Primero Primaria;Preprimaria;
+350497927;No;No;Falta de dinero;Ninguno;Ninguno;Trabajador(a) cuenta propia no agra­cola
+350497927;Si;No;Falta de dinero;Ninguno;Sexto Primaria;
+350497927;Si;Si;;Segundo Primaria;Primero Primaria;
+350498021;Si;No;Falta de dinero;Ninguno;Sexto Primaria;Trabajador(a) cuenta propia no agra­cola
+350498021;No;Si;;Preprimaria;Ninguno;
+350498021;Si;Si;;Primero Basico;Sexto Primaria;
+350498021;Si;Si;;Segundo Primaria;Primero Primaria;
+350498021;Si;Si;;Sexto Primaria;Quinto Primaria;
+350498391;No;No;Falta de dinero;Ninguno;Ninguno;Trabajador(a) cuenta propia no agra­cola
+350498391;Si;No;Falta de dinero;Ninguno;Sexto Primaria;
+350498391;Si;Si;;Quinto Primaria;Cuarto Primaria;
+352998285;No;No;Otra causa;Ninguno;Ninguno;No Trabaja
+352998285;No;No;Otra causa;Ninguno;Ninguno;
+352998285;Si;Si;;Primero Primaria;Preprimaria;
+356997680;Si;No;Falta de dinero;Ninguno;Sexto Primaria;Trabajador(a) cuenta propia no agra­cola
+356997680;Si;Si;;Preprimaria;Ninguno;
+358497654;No;No;Otra causa;Ninguno;Ninguno;Trabajador(a) cuenta propia no agra­cola
+358497654;Si;Si;;Primero Basico;Sexto Primaria;
+358497654;Si;Si;;Quinto Primaria;Cuarto Primaria;
+358497825;Si;No;Falta de dinero;Ninguno;Segundo Primaria;Trabajador(a) cuenta propia no agra­cola
+358497825;Si;Si;;Primero Primaria;Preprimaria;
+359497916;Si;No;Oficios de la casa;Ninguno;Tercero Basico;Trabajador(a) cuenta propia no agra­cola
+359497916;No;Si;;Preprimaria;Ninguno;
+359497925;Si;No;Enfermedad o discapacidad;Ninguno;Sexto Primaria;Trabajador(a) cuenta propia no agra­cola
+359497925;Si;Si;;Preprimaria;Ninguno;
+359497925;Si;Si;;Segundo Primaria;Primero Primaria;
+359497970;No;No;Otra causa;Ninguno;Ninguno;Trabajador(a) cuenta propia no agra­cola
+359497970;Si;Si;;Primero Primaria;Preprimaria;
+402497900;Si;No;Falta de dinero;Ninguno;Cuarto Primaria;Trabajador(a) cuenta propia agra­cola
+402497900;No;Si;;Preprimaria;Ninguno;
+402497900;Si;Si;;Quinto Primaria;Cuarto Primaria;
+402497900;Si;Si;;Segundo Basico;Primero Basico;
+402498198;Si;No;Falta de dinero;Ninguno;Primero Primaria;Trabajador(a) cuenta propia no agra­cola
+402498198;Si;Si;;Preprimaria;Ninguno;
+402498198;Si;Si;;Quinto Primaria;Cuarto Primaria;
+402498198;Si;Si;;Segundo Primaria;Primero Primaria;
+402499116;No;No;Falta de dinero;Ninguno;Ninguno;Trabajador(a) cuenta propia no agra­cola
+402499116;No;Si;;Preprimaria;Ninguno;
+402997752;No;No;Otra causa;Ninguno;Ninguno;
+402997752;Si;No;No le interesa;Ninguno;Sexto Primaria;
+402997752;Si;No;La madre trabaja;Ninguno;Tercero Primaria;Trabajador(a) cuenta propia no agra­cola
+402997752;Si;Si;;Primero Primaria;Preprimaria;
+402997756;Si;Si;;Cuarto Primaria;Tercero Primaria;
+402997756;No;No;Otra causa;Ninguno;Ninguno;Trabajador(a) cuenta propia no agra­cola
+402997756;No;Si;;Preprimaria;Ninguno;
+402997756;Si;Si;;Segundo Primaria;Primero Primaria;
+402997814;No;No;Otra causa;Ninguno;Ninguno;Trabajador(a) cuenta propia no agra­cola
+402997814;Si;No;Falta de dinero;Ninguno;Sexto Primaria;
+402997814;No;Si;;Preprimaria;Ninguno;
+402997814;Si;Si;;Segundo Primaria;Primero Primaria;
+402997814;Si;Si;;Sexto Primaria;Quinto Primaria;
+402997815;Si;No;Oficios de la casa;Ninguno;Cuarto Primaria;Trabajador(a) cuenta propia no agra­cola
+402997815;Si;Si;;Quinto Primaria;Cuarto Primaria;
+402998028;No;No;Otra causa;Ninguno;Ninguno;Trabajador(a) cuenta propia no agra­cola
+402998028;No;Si;;Preprimaria;Ninguno;
+402998028;Si;Si;;Tercero Primaria;Segundo Primaria;
+403998078;Si;No;Falta de dinero;Ninguno;Quinto Primaria;Trabajador(a) cuenta propia agra­cola
+600498278;Si;No;Falta de dinero;Ninguno;Sexto Primaria;Trabajador(a) cuenta propia no agra­cola
+600498278;Si;Si;;Quinto Primaria;Cuarto Primaria;
+600498278;Si;Si;;Segundo Primaria;Primero Primaria;
+600498590;Si;No;Falta de dinero;Ninguno;Sexto Primaria;Trabajador(a) cuenta propia no agra­cola
+600498590;Si;Si;;Primero Primaria;Preprimaria;
+600498590;Si;Si;;Segundo Basico;Primero Basico;
+600499208;Si;Si;;Cuarto Primaria;Tercero Primaria;
+600499208;No;No;Falta de dinero;Ninguno;Ninguno;No Trabaja
+600499208;No;Si;;Preprimaria;Ninguno;
+600499208;Si;Si;;Quinto Primaria;Cuarto Primaria;
+600499491;Si;No;Oficios de la casa;Ninguno;Sexto Primaria;No Trabaja
+600499491;No;Si;;Primero Primaria;Preprimaria;
+600499491;Si;Si;;Segundo Primaria;Primero Primaria;
+600500261;Si;No;Falta de dinero;Ninguno;Primero Primaria;No Trabaja
+600500261;Si;Si;;Quinto Primaria;Cuarto Primaria;
+600500261;Si;Si;;Segundo Primaria;Primero Primaria;
+600500327;Si;Si;;Cuarto Primaria;Tercero Primaria;
+600500327;Si;No;Falta de dinero;Ninguno;Sexto Primaria;No Trabaja
+600500327;Si;Si;;Primero Primaria;Preprimaria;
+600501215;Si;No;Trabajo;Ninguno;Tercero Primaria;Trabajador(a) cuenta propia no agra­cola
+600501215;Si;Si;;Primero Primaria;Preprimaria;
+600501438;Si;Si;;Cuarto Primaria;Tercero Primaria;
+600501438;Si;No;Falta de dinero;Ninguno;Primero Primaria;No Trabaja
+600501438;No;Si;;Preprimaria;Ninguno;
+601000443;No;No;Otra causa;Ninguno;Ninguno;No Trabaja
+601000443;Si;No;No le interesa;Ninguno;Tercero Primaria;
+601000443;No;Si;;Preprimaria;Ninguno;
+601000443;Si;Si;;Tercero Primaria;Segundo Primaria;
+601498317;No;No;Falta de dinero;Ninguno;Ninguno;No Trabaja
+601498317;Si;Si;;Sexto Primaria;Quinto Primaria;
+601498367;No;No;Falta de dinero;Ninguno;Ninguno;No Trabaja
+601498367;No;Si;;Preprimaria;Ninguno;
+601998324;Si;No;Oficios de la casa;Ninguno;Sexto Primaria;No Trabaja
+601998324;Si;Si;;Primero Primaria;Preprimaria;
+601998324;Si;Si;;Quinto Primaria;Cuarto Primaria;
+601998328;Si;No;Oficios de la casa;Ninguno;Tercero Primaria;Trabajador(a) cuenta propia agra­cola
+601998328;Si;Si;;Preprimaria;Ninguno;
+601998328;Si;Si;;Tercero Primaria;Segundo Primaria;
+601998332;Si;No;Falta de dinero;Ninguno;Segundo Primaria;Trabajador(a) cuenta propia agra­cola
+601998332;Si;Si;;Quinto Primaria;Cuarto Primaria;
+601998339;Si;No;Falta de dinero;Ninguno;Sexto Primaria;Trabajador(a) cuenta propia agra­cola
+602998177;Si;No;Falta de dinero;Ninguno;Cuarto Primaria;No Trabaja
+602998177;No;Si;;Preprimaria;Ninguno;
+602998177;Si;Si;;Quinto Primaria;Cuarto Primaria;
+603498497;Si;No;Trabajo;Ninguno;Sexto Primaria;No Trabaja
+603498497;No;Si;;Preprimaria;Ninguno;
+603498497;Si;Si;;Quinto Primaria;Cuarto Primaria;
+603601987;Si;Si;;Cuarto Primaria;Tercero Primaria;
+603601987;Si;No;Falta de dinero;Ninguno;Segundo Primaria;No Trabaja
+603601987;Si;Si;;Primero Basico;Sexto Primaria;
+603601987;Si;Si;;Segundo Primaria;Primero Primaria;
+604498314;No;No;Falta de dinero;Ninguno;Ninguno;Trabajador(a) cuenta propia agra­cola
+604498314;No;Si;;Preprimaria;Ninguno;
+604997688;No;No;Otra causa;Ninguno;Ninguno;No Trabaja
+604997688;No;Si;;Preprimaria;Ninguno;
+604997729;Si;No;No le interesa;Ninguno;Tercero Primaria;Trabajador(a) cuenta propia no agra­cola
+604997729;Si;Si;;Preprimaria;Ninguno;
+604997729;Si;Si;;Primero Basico;Sexto Primaria;
+604997729;Si;Si;;Segundo Primaria;Primero Primaria;
+604998325;Si;Si;;Cuarto Primaria;Tercero Primaria;
+604998325;Si;No;Falta de dinero;Ninguno;Ninguno;No Trabaja
+604998325;Si;Si;;Tercero Primaria;Segundo Primaria;
+605498310;Si;No;Falta de dinero;Ninguno;Cuarto Primaria;Trabajador(a) cuenta propia no agra­cola
+605498310;No;No;Otra causa;Ninguno;Ninguno;
+605498310;Si;Si;;Primero Primaria;Preprimaria;
+605498507;No;No;Falta de dinero;Ninguno;Ninguno;No Trabaja
+605498507;No;Si;;Primero Primaria;Preprimaria;
+605498507;Si;Si;;Sexto Primaria;Quinto Primaria;
+605498507;Si;Si;;Tercero Primaria;Segundo Primaria;
+605498712;No;No;Otra causa;Ninguno;Ninguno;
+605498712;Si;No;Falta de dinero;Ninguno;Tercero Basico;No Trabaja
+605498712;Si;Si;;Tercero Primaria;Segundo Primaria;
+605499139;No;No;No le interesa;Ninguno;Primero Primaria;Trabajador(a) cuenta propia agra­cola
+605499139;Si;Si;;Primero Basico;Sexto Primaria;
+605997719;No;No;Falta de dinero;Ninguno;Ninguno;No Trabaja
+605997719;Si;Si;;Quinto Primaria;Cuarto Primaria;
+605997719;Si;Si;;Segundo Basico;Primero Basico;
+606500384;No;No;Falta de dinero;Ninguno;Ninguno;Trabajador(a) cuenta propia agra­cola
+606500384;Si;Si;;Segundo Primaria;Primero Primaria;
+606998709;Si;Si;;Cuarto Primaria;Tercero Primaria;
+606998709;Si;No;No le interesa;Ninguno;Sexto Primaria;No Trabaja
+606998951;Si;Si;;Cuarto Primaria;Tercero Primaria;
+606998951;No;No;Falta de dinero;Ninguno;Ninguno;No Trabaja
+606998951;Si;Si;;Quinto Primaria;Cuarto Primaria;
+607504066;No;No;No le interesa;Ninguno;Ninguno;
+607504066;Si;No;Falta de dinero;Ninguno;Tercero Primaria;No Trabaja
+607504066;Si;Si;;Sexto Primaria;Quinto Primaria;
+607998054;Si;No;Falta de dinero;Ninguno;Sexto Primaria;Trabajador(a) cuenta propia agra­cola
+607998054;Si;No;Falta de dinero;Ninguno;Sexto Primaria;
+607998054;Si;Si;;Segundo Primaria;Primero Primaria;
+607998054;Si;Si;;Sexto Primaria;Quinto Primaria;
+608499520;No;No;Otra causa;Ninguno;Ninguno;
+608499520;Si;No;Falta de dinero;Ninguno;Quinto Primaria;Trabajador(a) cuenta propia no agra­cola
+608499520;Si;Si;;Segundo Basico;Primero Basico;
+609497670;No;No;No le interesa;Ninguno;Ninguno;Trabajador(a) cuenta propia agra­cola
+609497670;Si;Si;;Sexto Primaria;Quinto Primaria;
+609499178;No;No;Falta de dinero;Ninguno;Ninguno;Trabajador(a) cuenta propia agra­cola
+609499178;Si;Si;;Primero Primaria;Preprimaria;
+609499178;Si;Si;;Quinto Primaria;Cuarto Primaria;
+609499178;Si;Si;;Sexto Primaria;Quinto Primaria;
+609501398;Si;Si;;Cuarto Primaria;Tercero Primaria;
+609501398;No;No;Falta de dinero;Ninguno;Ninguno;Trabajador(a) cuenta propia agra­cola
+609501398;Si;Si;;Sexto Primaria;Quinto Primaria;
+609501502;Si;No;No le interesa;Ninguno;Sexto Primaria;Trabajador(a) cuenta propia agra­cola
+609997864;Si;No;Falta de dinero;Ninguno;Segundo Primaria;No Trabaja
+609997864;Si;Si;;Primero Primaria;Preprimaria;
+609997864;Si;Si;;Tercero Primaria;Segundo Primaria;
+610497782;No;No;Otra causa;Ninguno;Ninguno;
+610497782;Si;No;Falta de dinero;Ninguno;Tercero Primaria;No Trabaja
+610497782;Si;Si;;Primero Primaria;Preprimaria;
+610497782;Si;Si;;Segundo Primaria;Primero Primaria;
+610497782;Si;Si;;Tercero Primaria;Segundo Primaria;
+611497818;No;No;Falta de dinero;Ninguno;Ninguno;Trabajador(a) cuenta propia agra­cola
+611497818;Si;Si;;Sexto Primaria;Quinto Primaria;
+611497818;Si;Si;;Tercero Primaria;Segundo Primaria;
+611498024;Si;No;Falta de dinero;Ninguno;Sexto Primaria;No Trabaja
+611498024;No;Si;;Preprimaria;Ninguno;
+611498024;Si;Si;;Quinto Primaria;Cuarto Primaria;
+611498024;Si;Si;;Segundo Primaria;Primero Primaria;
+611498024;Si;Si;;Tercero Primaria;Segundo Primaria;
+613497936;Si;Si;;Cuarto Primaria;Tercero Primaria;
+613497936;No;No;Falta de dinero;Ninguno;Ninguno;No Trabaja
+613497936;No;No;Otra causa;Ninguno;Ninguno;
+613497936;Si;Si;;Primero Primaria;Preprimaria;
+613497936;Si;Si;;Quinto Primaria;Cuarto Primaria;
+613498032;No;No;Falta de dinero;Ninguno;Ninguno;No Trabaja
+613498032;Si;No;Otra causa;Ninguno;Sexto Primaria;
+613498032;Si;Si;;Segundo Primaria;Primero Primaria;
+613498032;Si;Si;;Tercero Primaria;Segundo Primaria;
+613498427;Si;Si;;Cuarto Primaria;Tercero Primaria;
+613498427;Si;No;Falta de dinero;Ninguno;Cuarto Primaria;No Trabaja
+613498427;No;Si;;Preprimaria;Ninguno;
+613498427;Si;Si;;Primero Primaria;Preprimaria;
+613498433;No;No;Otra causa;Ninguno;Ninguno;
+613498433;Si;No;Falta de dinero;Ninguno;Segundo Primaria;No Trabaja
+613498433;Si;Si;;Quinto Primaria;Cuarto Primaria;
+613997941;Si;Si;;Cuarto Primaria;Tercero Primaria;
+613997941;Si;No;Falta de dinero;Ninguno;Primero Basico;No Trabaja
+613997941;Si;Si;;Primero Primaria;Preprimaria;
+613998219;No;No;Otra causa;Ninguno;Ninguno;
+613998219;No;No;Enfermedad o discapacidad;Ninguno;Ninguno;
+613998219;No;No;Otra causa;Ninguno;Ninguno;
+613998219;No;No;Enfermedad o discapacidad;Ninguno;Ninguno;
+613998219;No;No;Otra causa;Ninguno;Ninguno;
+613998219;No;No;Enfermedad o discapacidad;Ninguno;Ninguno;
+613998219;No;No;Otra causa;Ninguno;Ninguno;
+613998219;No;No;Enfermedad o discapacidad;Ninguno;Ninguno;
+613998219;No;No;Otra causa;Ninguno;Ninguno;
+613998219;No;No;Enfermedad o discapacidad;Ninguno;Ninguno;
+613998219;No;No;Otra causa;Ninguno;Ninguno;
+613998219;No;No;Enfermedad o discapacidad;Ninguno;Ninguno;
+613998219;No;No;Otra causa;Ninguno;Ninguno;
+613998219;Si;No;Falta de dinero;Ninguno;Quinto Primaria;No Trabaja
+613998220;No;No;Otra causa;Ninguno;Ninguno;Trabajador(a) cuenta propia agra­cola
+613998220;Si;Si;;Primero Primaria;Preprimaria;
+613998250;No;No;Falta de dinero;Ninguno;Ninguno;Trabajador(a) cuenta propia agra­cola
+613998250;No;No;Otra causa;Ninguno;Ninguno;
+613998250;Si;Si;;Primero Primaria;Preprimaria;
+614497924;Si;No;Falta de dinero;Ninguno;Sexto Primaria;No Trabaja
+614497924;Si;Si;;Primero Basico;Sexto Primaria;
+614497924;Si;Si;;Primero Primaria;Preprimaria;
+614497928;Si;No;Falta de dinero;Ninguno;Sexto Primaria;No Trabaja
+614497928;No;Si;;Preprimaria;Ninguno;
+614497939;No;No;Trabajo;Ninguno;Ninguno;No Trabaja
+614497939;Si;Si;;Quinto Primaria;Cuarto Primaria;
+614497939;Si;Si;;Tercero Primaria;Segundo Primaria;
+650503810;Si;Si;;Cuarto Primaria;Tercero Primaria;
+650503810;No;No;No le interesa;Ninguno;Ninguno;Trabajador(a) cuenta propia no agra­cola
+650503810;No;No;Otra causa;Ninguno;Ninguno;
+650503810;Si;Si;;Segundo Primaria;Primero Primaria;
+651001558;No;No;Otra causa;Ninguno;Ninguno;No Trabaja
+651001558;No;No;Otra causa;Ninguno;Ninguno;
+651001558;Si;Si;;Quinto Primaria;Cuarto Primaria;
+651001558;Si;Si;;Segundo Basico;Primero Basico;
+651498330;Si;No;Oficios de la casa;Ninguno;Primero Primaria;No Trabaja
+651498330;No;Si;;Preprimaria;Ninguno;
+651498330;Si;Si;;Primero Primaria;Preprimaria;
+651498330;Si;Si;;Quinto Primaria;Cuarto Primaria;
+651498900;Si;Si;;Cuarto Primaria;Tercero Primaria;
+651498900;Si;No;Oficios de la casa;Ninguno;Cuarto Primaria;No Trabaja
+651498900;Si;Si;;Segundo Basico;Primero Basico;
+651498900;Si;Si;;Sexto Primaria;Quinto Primaria;
+651498999;Si;No;Otra causa;Ninguno;Segundo Primaria;Trabajador(a) cuenta propia no agra­cola
+652497938;No;No;Otra causa;Ninguno;Ninguno;Trabajador(a) cuenta propia no agra­cola
+652497938;No;Si;;Preprimaria;Ninguno;
+652497938;Si;Si;;Segundo Primaria;Primero Primaria;
+652997687;Si;Si;;Cuarto Primaria;Tercero Primaria;
+652997687;Si;No;Falta de dinero;Ninguno;Segundo Primaria;Trabajador(a) cuenta propia no agra­cola
+652997687;No;Si;;Primero Primaria;Preprimaria;
+652997901;Si;Si;;Cuarto Primaria;Tercero Primaria;
+652997901;Si;No;Falta de dinero;Ninguno;Primero Primaria;No Trabaja
+652997901;No;Si;;Primero Primaria;Preprimaria;
+652997902;No;No;No le interesa;Ninguno;Ninguno;No Trabaja
+652997902;Si;No;Falta de dinero;Ninguno;Sexto Primaria;
+652997902;No;Si;;Preprimaria;Ninguno;
+652997902;Si;Si;;Quinto Primaria;Cuarto Primaria;
+652997902;Si;Si;;Tercero Primaria;Segundo Primaria;
+654000031;Si;No;Oficios de la casa;Ninguno;Preprimaria;Trabajador(a) cuenta propia no agra­cola
+654000031;Si;Si;;Preprimaria;Ninguno;
+654997835;No;No;Otra causa;Ninguno;Ninguno;
+654997835;Si;No;Falta de dinero;Ninguno;Sexto Primaria;No Trabaja
+654997835;Si;Si;;Quinto Primaria;Cuarto Primaria;
+655998676;Si;No;Falta de dinero;Ninguno;Sexto Primaria;No Trabaja
+655998676;Si;No;Falta de dinero;Ninguno;Sexto Primaria;
+655998676;Si;Si;;Sexto Primaria;Quinto Primaria;
+655998676;Si;Si;;Tercero Primaria;Segundo Primaria;
+655998889;Si;Si;;Cuarto Primaria;Tercero Primaria;
+655998889;Si;No;Falta de dinero;Ninguno;Primero Primaria;No Trabaja
+655998889;No;Si;;Primero Primaria;Preprimaria;
+657997897;No;No;Otra causa;Ninguno;Ninguno;No Trabaja
+657997897;Si;Si;;Segundo Primaria;Primero Primaria;
+657997904;Si;No;Falta de dinero;Ninguno;Segundo Primaria;Trabajador(a) cuenta propia no agra­cola
+657997904;No;Si;;Preprimaria;Ninguno;
+659498115;Si;No;Falta de dinero;Ninguno;Sexto Primaria;No Trabaja
+659498115;Si;Si;;Preprimaria;Ninguno;
+659997746;Si;No;Falta de dinero;Ninguno;Primer Año diversificado;No Trabaja
+659997746;No;Si;;Preprimaria;Ninguno;
+659997746;Si;Si;;Segundo Primaria;Primero Primaria;
+659997855;Si;Si;;Cuarto Primaria;Tercero Primaria;
+659997855;No;No;Otra causa;Ninguno;Ninguno;Trabajador(a) cuenta propia agra­cola
+659997855;No;Si;;Preprimaria;Ninguno;
+660997709;Si;Si;;Cuarto Primaria;Tercero Primaria;
+660997709;Si;No;Falta de dinero;Ninguno;Sexto Primaria;No Trabaja
+660997709;Si;Si;;Primero Primaria;Preprimaria;
+661498088;Si;No;Falta de dinero;Ninguno;Tercero Primaria;No Trabaja
+661498088;No;Si;;Preprimaria;Ninguno;
+661998835;No;No;Otra causa;Ninguno;Ninguno;
+661998835;Si;No;Falta de dinero;Ninguno;Quinto Primaria;Trabajador(a) cuenta propia no agra­cola
+661998835;Si;Si;;Quinto Primaria;Cuarto Primaria;
+661998835;Si;Si;;Segundo Primaria;Primero Primaria;
+664497683;Si;No;Oficios de la casa;Ninguno;Sexto Primaria;Trabajador(a) cuenta propia agra­cola
+664497683;Si;Si;;Preprimaria;Ninguno;
+664497712;No;No;Otra causa;Ninguno;Ninguno;Trabajador(a) cuenta propia agra­cola
+700500778;Si;Si;;Cuarto Primaria;Tercero Primaria;
+700500778;Si;No;Falta de dinero;Ninguno;Cuarto Primaria;No Trabaja
+700500778;No;Si;;Preprimaria;Ninguno;
+700500778;Si;Si;;Tercero Primaria;Segundo Primaria;
+700502551;Si;No;No le interesa;Ninguno;Tercero Primaria;No Trabaja
+700502551;Si;Si;;Primero Primaria;Ninguno;
+700502551;Si;Si;;Sexto Primaria;Quinto Primaria;
+700502887;Si;Si;;Cuarto Primaria;Tercero Primaria;
+700502887;Si;No;Oficios de la casa;Ninguno;Tercero Primaria;No Trabaja
+700502887;Si;Si;;Quinto Primaria;Cuarto Primaria;
+707997919;No;No;Otra causa;Ninguno;Ninguno;No Trabaja
+707997919;No;Si;;Preprimaria;Ninguno;
+707997919;Si;Si;;Tercero Primaria;Segundo Primaria;
+709498650;Si;No;Falta de dinero;Ninguno;Primero Primaria;Trabajador(a) cuenta propia no agra­cola
+709498650;Si;Si;;Tercero Primaria;Segundo Primaria;
