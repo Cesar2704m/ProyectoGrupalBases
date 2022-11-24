@@ -1,5 +1,5 @@
-CREATE DATABASE  IF NOT EXISTS proyectogrupal;
-USE proyectogrupal;
+CREATE SCHEMA IF NOT EXISTS PRUEBA;
+USE PRUEBA;
 
 DROP TABLE IF EXISTS car_personas;
 CREATE TABLE car_personas (
